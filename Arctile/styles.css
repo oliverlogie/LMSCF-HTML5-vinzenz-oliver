@@ -45,3 +45,15 @@ h1 {
 	font-size: 17px;
 	font-family: "Times New Roman", Times, serif;
 }
+
+.navbar {
+	display: inline;
+	text-align: center;
+	font-size: 30px;
+
+}
+
+#header {
+		background-color: red;
+
+}
