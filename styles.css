@@ -1,0 +1,41 @@
+#first{
+	color: blue;
+	margin: 5px;
+}
+
+#third{
+	color: yellow;
+	margin: 5px;
+
+}
+#third p {
+	display: none;
+}	
+#fourth{
+	color: green;
+	margin:  5px;
+}
+
+
+
+
+
+/* these are all on the left side*/
+
+
+#second{
+	color: grey;
+	margin:  5px;
+}
+
+#fifth{
+	color: red;
+	margin:  5px;
+}
+
+#sixth{
+	color: violet;
+	margin:  5px;
+}
+
+/* these are all on the right side*/
