@@ -3,13 +3,17 @@
 	margin: 5px;
 }
 
+#first p {
+	font-size: 200%;
+}
+
 #third{
 	color: yellow;
 	margin: 5px;
 
 }
 #third p {
-	display: none;
+	/* display: none; */
 }	
 #fourth{
 	color: green;
@@ -36,11 +40,12 @@
 /* these are all on the right side*/
 
 h1 {
-	display: none;
+	/* display: none; */
 }
 
  .right {
-	visibility: hidden; /*because it is a class we use "." instead of "#" */
+	/* visibility: hidden;  */
+	because it is a class we use "." instead of "#" 
 }
 
 #sixth{
@@ -48,5 +53,10 @@ h1 {
 	margin:  5px;
 }
 img {
-	visibility: visible;
+	/* visibility: visible; */
 }
+
+form ~ h1 ~ img {
+
+}
+
