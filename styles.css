@@ -18,8 +18,6 @@
 
 
 
-
-
 /* these are all on the left side*/
 
 
@@ -33,9 +31,22 @@
 	margin:  5px;
 }
 
+
+
+/* these are all on the right side*/
+
+h1 {
+	display: none;
+}
+
+ .right {
+	visibility: hidden; /*because it is a class we use "." instead of "#" */
+}
+
 #sixth{
 	color: violet;
 	margin:  5px;
 }
-
-/* these are all on the right side*/
+img {
+	visibility: visible;
+}
