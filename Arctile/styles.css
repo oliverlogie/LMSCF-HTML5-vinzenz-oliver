@@ -1,16 +1,35 @@
 h1 {
 	font-style: italic;
+	background-color: black;
+	color: white;
+	text-align: center;
+	font-size: 400%;
 }
 
 #NYT {
-	float: right;
+	/* float: right; */
 }
 
 #Authors {
-	float: left;
 	background-color: green;
 }
 
-#test {
-	background-color: blue;
+#background {
+	background-color: grey;
+}
+
+.pic{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.center{
+	text-align: center;
+}
+
+.summary {
+	font-size: 200%;
+	text-align: center;
 }
