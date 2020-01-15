@@ -1,0 +1,16 @@
+h1 {
+	font-style: italic;
+}
+
+#NYT {
+	float: right;
+}
+
+#Authors {
+	float: left;
+	background-color: green;
+}
+
+#test {
+	background-color: blue;
+}
